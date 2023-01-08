@@ -10,7 +10,7 @@ Python program that converts India National Rupee (INR) to other foreign currenc
 </p>
 
 <p align="center">
-  <img width="522" src="https://github.com/Cr4zySh4rk/INRCurrencyConverter/blob/main/Screenshot1.png">
+  <img width="522" src="https://github.com/Cr4zySh4rk/INRCurrencyConverter/blob/main/Screenshot3.png">
 </p>
 
 ## Installation Instructions (On Ubuntu/Debian): 
