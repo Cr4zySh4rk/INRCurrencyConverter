@@ -30,7 +30,7 @@ cd into INRCurrencyConverter:
   ``` bash
   cd INRCurrencyConverter
   ```
-run the python file RPSLS:
+run the python file :
   ``` bash
   python3 CurrConv.py
   ```
